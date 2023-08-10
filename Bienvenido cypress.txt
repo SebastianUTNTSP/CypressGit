@@ -1,0 +1,9 @@
+Bienvenido cypress
+
+1. npm init
+2. npm install cypress --save-dev
+2.1 npx cypress install --force
+3 npm install -g npx
+3.1 node_modules\.bin\cypress open
+4. npx cypress open
+
