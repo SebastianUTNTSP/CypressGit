@@ -6,12 +6,11 @@ module.exports = defineConfig({
   viewportHeight: 900,
   pageLoadTimeout: 9000,
   defaultCommandTimeout: 5000, 
- 
-  projectId: 'dncknn',
+  
   e2e: {specPattern: "**/*.feature",
     testIsolation:false,
     hideXHRInCommandLog: true,
-    
+      projectId: "nej4xh",
     
     setupNodeEvents(on, config) {
       // implement node event listeners here.
