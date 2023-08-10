@@ -1,0 +1,20 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sebastian",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.4",
+    "cypress": "^12.17.1",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.3"
+  }
+}
