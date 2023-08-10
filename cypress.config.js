@@ -7,7 +7,7 @@ module.exports = defineConfig({
   pageLoadTimeout: 9000,
   defaultCommandTimeout: 5000, 
   
-  e2e: {specPattern: "**/*.feature",
+  e2e: {
     testIsolation:false,
     hideXHRInCommandLog: true,
       projectId: "nej4xh",
